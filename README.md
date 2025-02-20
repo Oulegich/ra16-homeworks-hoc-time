@@ -1,9 +1,9 @@
 Форматирование даты публикации
 ===
 
+[![Build status](https://ci.appveyor.com/api/projects/status/axoy0hwmxcuf3ov2?svg=true)](https://ci.appveyor.com/project/Oulegich/ra16-homeworks-hoc-time)
 
-
-[Ссылка на Github Pages]()
+[Ссылка на Github Pages](https://oulegich.github.io/ra16-homeworks-hoc-time/)
 
 Есть страница, содержащая список видеозаписей.
 У каждого блока есть дата публикации.
